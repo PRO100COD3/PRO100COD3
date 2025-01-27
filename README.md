@@ -2,13 +2,11 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJoc2lwcTF4YWx1NHE1d2luazJyeHFlNXA4NnQ3ZmF3Mmx5Z2FoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vadim-dzyuba">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:vad.dz2015@yandex.ru?subject=Приглащение на собеседование">
+  
+  <a href="mailto:vadim_v_it@mail.ru?subject=Приглашение на собеседование">
     <img src="https://img.shields.io/badge/My_mail-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail.Yandex"/>
   </a>
-  <a href="https://t.me/PRO100COD3">
+  <a href="https://t.me/i05er">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
