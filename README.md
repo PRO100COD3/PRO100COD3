@@ -3,10 +3,10 @@
 </div>
 <div id="badges" align="center">
   
-  <a href="mailto:vadim_v_it@mail.ru?subject=Приглашение на собеседование">
+  <a href="mailto:codeyourlive@ya.ru?subject=Приглашение на собеседование">
     <img src="https://img.shields.io/badge/My_mail-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail.Yandex"/>
   </a>
-  <a href="https://t.me/i05er">
+  <a href="https://t.me/codeyourlive">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
